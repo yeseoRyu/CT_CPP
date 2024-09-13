@@ -18,9 +18,6 @@
     <ClCompile Include="이중배열채우기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="긴문장찾기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="숫자더하기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -55,6 +52,39 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="원하는글자.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터주소.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자찾기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="배열비교.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="동일비교.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="동일문자여부.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="계산후출력.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="긴문장찾기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="거리계산.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="각각계산.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MAX_MIN좌표.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ABC세기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
