@@ -130,9 +130,13 @@
     <ClCompile Include="ABC세기.cpp" />
     <ClCompile Include="MAX_MIN좌표.cpp" />
     <ClCompile Include="각각계산.cpp" />
+    <ClCompile Include="같은번호세기.cpp" />
     <ClCompile Include="거리계산.cpp" />
     <ClCompile Include="계산후출력.cpp" />
+    <ClCompile Include="구역좁히기.cpp" />
     <ClCompile Include="긴문장찾기.cpp" />
+    <ClCompile Include="내림차정렬.cpp" />
+    <ClCompile Include="다운로드.cpp" />
     <ClCompile Include="동일문자여부.cpp" />
     <ClCompile Include="동일비교.cpp" />
     <ClCompile Include="문자길이.cpp" />
@@ -142,6 +146,7 @@
     <ClCompile Include="배열비교.cpp" />
     <ClCompile Include="배열에서문자.cpp" />
     <ClCompile Include="배열에서숫자찾기.cpp" />
+    <ClCompile Include="삼각형합.cpp" />
     <ClCompile Include="세문자카운팅.cpp" />
     <ClCompile Include="숫자더하기.cpp" />
     <ClCompile Include="숫자찾기.cpp" />
@@ -151,6 +156,7 @@
     <ClCompile Include="테두리.cpp" />
     <ClCompile Include="포인터주소.cpp" />
     <ClCompile Include="한줄나열.cpp" />
+    <ClCompile Include="한줄씩합.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
