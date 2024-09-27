@@ -1,30 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\Level9\\",
+  "WorkspaceRootPath": "C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\CodingTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39898FF7-DF0B-46DE-8767-9998D6A86EEE}|\uD6C8\uB8281\\\uD6C8\uB8281.vcxproj|C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\Level9\\\uD6C8\uB8281\\M\uCC3E\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{39898FF7-DF0B-46DE-8767-9998D6A86EEE}|\uD6C8\uB8281\\\uD6C8\uB8281.vcxproj|solutionrelative:\uD6C8\uB8281\\M\uCC3E\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{39898FF7-DF0B-46DE-8767-9998D6A86EEE}|\uD6C8\uB8281\\\uD6C8\uB8281.vcxproj|C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\CodingTest\\\uD6C8\uB8281\\\uC0AC\uAC01\uD615\uCD9C\uB825.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39898FF7-DF0B-46DE-8767-9998D6A86EEE}|\uD6C8\uB8281\\\uD6C8\uB8281.vcxproj|solutionrelative:\uD6C8\uB8281\\\uC0AC\uAC01\uD615\uCD9C\uB825.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39898FF7-DF0B-46DE-8767-9998D6A86EEE}|\uD6C8\uB8281\\\uD6C8\uB8281.vcxproj|C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\Level9\\\uD6C8\uB8281\\\uCE78\uC529\uB204\uC801\uD569.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{39898FF7-DF0B-46DE-8767-9998D6A86EEE}|\uD6C8\uB8281\\\uD6C8\uB8281.vcxproj|solutionrelative:\uD6C8\uB8281\\\uCE78\uC529\uB204\uC801\uD569.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{39898FF7-DF0B-46DE-8767-9998D6A86EEE}|\uD6C8\uB8281\\\uD6C8\uB8281.vcxproj|C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\CodingTest\\\uD6C8\uB8281\\\uB77C\uC778\uC0C9\uCE60.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39898FF7-DF0B-46DE-8767-9998D6A86EEE}|\uD6C8\uB8281\\\uD6C8\uB8281.vcxproj|solutionrelative:\uD6C8\uB8281\\\uB77C\uC778\uC0C9\uCE60.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39898FF7-DF0B-46DE-8767-9998D6A86EEE}|\uD6C8\uB8281\\\uD6C8\uB8281.vcxproj|C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\Level9\\\uD6C8\uB8281\\\uBB38\uC790\uC81C\uAC70.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{39898FF7-DF0B-46DE-8767-9998D6A86EEE}|\uD6C8\uB8281\\\uD6C8\uB8281.vcxproj|solutionrelative:\uD6C8\uB8281\\\uBB38\uC790\uC81C\uAC70.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{39898FF7-DF0B-46DE-8767-9998D6A86EEE}|\uD6C8\uB8281\\\uD6C8\uB8281.vcxproj|C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\CodingTest\\\uD6C8\uB8281\\\uAE00\uC790\uBC14\uAFB8\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39898FF7-DF0B-46DE-8767-9998D6A86EEE}|\uD6C8\uB8281\\\uD6C8\uB8281.vcxproj|solutionrelative:\uD6C8\uB8281\\\uAE00\uC790\uBC14\uAFB8\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39898FF7-DF0B-46DE-8767-9998D6A86EEE}|\uD6C8\uB8281\\\uD6C8\uB8281.vcxproj|C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\Level9\\\uD6C8\uB8281\\\uB204\uC801\uD569.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{39898FF7-DF0B-46DE-8767-9998D6A86EEE}|\uD6C8\uB8281\\\uD6C8\uB8281.vcxproj|solutionrelative:\uD6C8\uB8281\\\uB204\uC801\uD569.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{39898FF7-DF0B-46DE-8767-9998D6A86EEE}|\uD6C8\uB8281\\\uD6C8\uB8281.vcxproj|C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\CodingTest\\\uD6C8\uB8281\\\uB204\uC801\uC810\uD551.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39898FF7-DF0B-46DE-8767-9998D6A86EEE}|\uD6C8\uB8281\\\uD6C8\uB8281.vcxproj|solutionrelative:\uD6C8\uB8281\\\uB204\uC801\uC810\uD551.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39898FF7-DF0B-46DE-8767-9998D6A86EEE}|\uD6C8\uB8281\\\uD6C8\uB8281.vcxproj|C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\Level9\\\uD6C8\uB8281\\\uBB38\uC7A5\uCD94\uAC00.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{39898FF7-DF0B-46DE-8767-9998D6A86EEE}|\uD6C8\uB8281\\\uD6C8\uB8281.vcxproj|solutionrelative:\uD6C8\uB8281\\\uBB38\uC7A5\uCD94\uAC00.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39898FF7-DF0B-46DE-8767-9998D6A86EEE}|\uD6C8\uB8281\\\uD6C8\uB8281.vcxproj|C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\Level9\\\uD6C8\uB8281\\\uAF2C\uB9AC\uCC3E\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{39898FF7-DF0B-46DE-8767-9998D6A86EEE}|\uD6C8\uB8281\\\uD6C8\uB8281.vcxproj|solutionrelative:\uD6C8\uB8281\\\uAF2C\uB9AC\uCC3E\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{39898FF7-DF0B-46DE-8767-9998D6A86EEE}|\uD6C8\uB8281\\\uD6C8\uB8281.vcxproj|C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\CodingTest\\\uD6C8\uB8281\\\uC8FC\uC18C\uB118\uAE30\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39898FF7-DF0B-46DE-8767-9998D6A86EEE}|\uD6C8\uB8281\\\uD6C8\uB8281.vcxproj|solutionrelative:\uD6C8\uB8281\\\uC8FC\uC18C\uB118\uAE30\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,79 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "M\uCC3E\uAE30.cpp",
-              "DocumentMoniker": "C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\Level9\\\uD6C8\uB8281\\M\uCC3E\uAE30.cpp",
-              "RelativeDocumentMoniker": "\uD6C8\uB8281\\M\uCC3E\uAE30.cpp",
-              "ToolTip": "C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\Level9\\\uD6C8\uB8281\\M\uCC3E\uAE30.cpp",
-              "RelativeToolTip": "\uD6C8\uB8281\\M\uCC3E\uAE30.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Title": "\uC0AC\uAC01\uD615\uCD9C\uB825.cpp",
+              "DocumentMoniker": "C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\CodingTest\\\uD6C8\uB8281\\\uC0AC\uAC01\uD615\uCD9C\uB825.cpp",
+              "RelativeDocumentMoniker": "\uD6C8\uB8281\\\uC0AC\uAC01\uD615\uCD9C\uB825.cpp",
+              "ToolTip": "C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\CodingTest\\\uD6C8\uB8281\\\uC0AC\uAC01\uD615\uCD9C\uB825.cpp",
+              "RelativeToolTip": "\uD6C8\uB8281\\\uC0AC\uAC01\uD615\uCD9C\uB825.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-25T06:16:29.911Z",
+              "WhenOpened": "2024-09-26T00:52:02.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "\uCE78\uC529\uB204\uC801\uD569.cpp",
-              "DocumentMoniker": "C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\Level9\\\uD6C8\uB8281\\\uCE78\uC529\uB204\uC801\uD569.cpp",
-              "RelativeDocumentMoniker": "\uD6C8\uB8281\\\uCE78\uC529\uB204\uC801\uD569.cpp",
-              "ToolTip": "C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\Level9\\\uD6C8\uB8281\\\uCE78\uC529\uB204\uC801\uD569.cpp",
-              "RelativeToolTip": "\uD6C8\uB8281\\\uCE78\uC529\uB204\uC801\uD569.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Title": "\uB77C\uC778\uC0C9\uCE60.cpp",
+              "DocumentMoniker": "C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\CodingTest\\\uD6C8\uB8281\\\uB77C\uC778\uC0C9\uCE60.cpp",
+              "RelativeDocumentMoniker": "\uD6C8\uB8281\\\uB77C\uC778\uC0C9\uCE60.cpp",
+              "ToolTip": "C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\CodingTest\\\uD6C8\uB8281\\\uB77C\uC778\uC0C9\uCE60.cpp",
+              "RelativeToolTip": "\uD6C8\uB8281\\\uB77C\uC778\uC0C9\uCE60.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowCIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-25T06:16:11.946Z",
+              "WhenOpened": "2024-09-26T00:51:40.539Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "\uBB38\uC790\uC81C\uAC70.cpp",
-              "DocumentMoniker": "C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\Level9\\\uD6C8\uB8281\\\uBB38\uC790\uC81C\uAC70.cpp",
-              "RelativeDocumentMoniker": "\uD6C8\uB8281\\\uBB38\uC790\uC81C\uAC70.cpp",
-              "ToolTip": "C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\Level9\\\uD6C8\uB8281\\\uBB38\uC790\uC81C\uAC70.cpp",
-              "RelativeToolTip": "\uD6C8\uB8281\\\uBB38\uC790\uC81C\uAC70.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Title": "\uAE00\uC790\uBC14\uAFB8\uAE30.cpp",
+              "DocumentMoniker": "C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\CodingTest\\\uD6C8\uB8281\\\uAE00\uC790\uBC14\uAFB8\uAE30.cpp",
+              "RelativeDocumentMoniker": "\uD6C8\uB8281\\\uAE00\uC790\uBC14\uAFB8\uAE30.cpp",
+              "ToolTip": "C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\CodingTest\\\uD6C8\uB8281\\\uAE00\uC790\uBC14\uAFB8\uAE30.cpp",
+              "RelativeToolTip": "\uD6C8\uB8281\\\uAE00\uC790\uBC14\uAFB8\uAE30.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-25T06:15:50.765Z",
+              "WhenOpened": "2024-09-26T00:51:13.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "\uB204\uC801\uD569.cpp",
-              "DocumentMoniker": "C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\Level9\\\uD6C8\uB8281\\\uB204\uC801\uD569.cpp",
-              "RelativeDocumentMoniker": "\uD6C8\uB8281\\\uB204\uC801\uD569.cpp",
-              "ToolTip": "C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\Level9\\\uD6C8\uB8281\\\uB204\uC801\uD569.cpp",
-              "RelativeToolTip": "\uD6C8\uB8281\\\uB204\uC801\uD569.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Title": "\uB204\uC801\uC810\uD551.cpp",
+              "DocumentMoniker": "C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\CodingTest\\\uD6C8\uB8281\\\uB204\uC801\uC810\uD551.cpp",
+              "RelativeDocumentMoniker": "\uD6C8\uB8281\\\uB204\uC801\uC810\uD551.cpp",
+              "ToolTip": "C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\CodingTest\\\uD6C8\uB8281\\\uB204\uC801\uC810\uD551.cpp",
+              "RelativeToolTip": "\uD6C8\uB8281\\\uB204\uC801\uC810\uD551.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-25T06:15:33.768Z",
+              "WhenOpened": "2024-09-26T00:50:54.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "\uBB38\uC7A5\uCD94\uAC00.cpp",
-              "DocumentMoniker": "C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\Level9\\\uD6C8\uB8281\\\uBB38\uC7A5\uCD94\uAC00.cpp",
-              "RelativeDocumentMoniker": "\uD6C8\uB8281\\\uBB38\uC7A5\uCD94\uAC00.cpp",
-              "ToolTip": "C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\Level9\\\uD6C8\uB8281\\\uBB38\uC7A5\uCD94\uAC00.cpp",
-              "RelativeToolTip": "\uD6C8\uB8281\\\uBB38\uC7A5\uCD94\uAC00.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Title": "\uC8FC\uC18C\uB118\uAE30\uAE30.cpp",
+              "DocumentMoniker": "C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\CodingTest\\\uD6C8\uB8281\\\uC8FC\uC18C\uB118\uAE30\uAE30.cpp",
+              "RelativeDocumentMoniker": "\uD6C8\uB8281\\\uC8FC\uC18C\uB118\uAE30\uAE30.cpp",
+              "ToolTip": "C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\CodingTest\\\uD6C8\uB8281\\\uC8FC\uC18C\uB118\uAE30\uAE30.cpp",
+              "RelativeToolTip": "\uD6C8\uB8281\\\uC8FC\uC18C\uB118\uAE30\uAE30.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-25T06:15:15.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "\uAF2C\uB9AC\uCC3E\uAE30.cpp",
-              "DocumentMoniker": "C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\Level9\\\uD6C8\uB8281\\\uAF2C\uB9AC\uCC3E\uAE30.cpp",
-              "RelativeDocumentMoniker": "\uD6C8\uB8281\\\uAF2C\uB9AC\uCC3E\uAE30.cpp",
-              "ToolTip": "C:\\Users\\lazdo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC608\uC11C\\\uCF54\uB529\uD14C\uC2A4\uD2B8\\Level9\\\uD6C8\uB8281\\\uAF2C\uB9AC\uCC3E\uAE30.cpp",
-              "RelativeToolTip": "\uD6C8\uB8281\\\uAF2C\uB9AC\uCC3E\uAE30.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-25T06:14:43.071Z",
+              "WhenOpened": "2024-09-26T00:50:34.896Z",
               "EditorCaption": ""
             }
           ]
