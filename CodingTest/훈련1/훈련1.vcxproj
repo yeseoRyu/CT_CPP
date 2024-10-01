@@ -127,8 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="direct.cpp" />
     <ClCompile Include="min값인덱스.cpp" />
     <ClCompile Include="M찾기.cpp" />
+    <ClCompile Include="가로세로색칠.cpp" />
     <ClCompile Include="값찾기.cpp" />
     <ClCompile Include="거리구하기.cpp" />
     <ClCompile Include="거리이동.cpp" />
@@ -136,6 +138,7 @@
     <ClCompile Include="글자수.cpp" />
     <ClCompile Include="금고털이.cpp" />
     <ClCompile Include="기차에서우리팀.cpp" />
+    <ClCompile Include="기차칸찾기.cpp" />
     <ClCompile Include="꼬리찾기.cpp" />
     <ClCompile Include="누적점핑.cpp" />
     <ClCompile Include="누적합.cpp" />
@@ -146,18 +149,24 @@
     <ClCompile Include="마스킹출력.cpp" />
     <ClCompile Include="많은수.cpp" />
     <ClCompile Include="몇층.cpp" />
+    <ClCompile Include="모양넣기.cpp" />
     <ClCompile Include="문자제거.cpp" />
     <ClCompile Include="문장추가.cpp" />
+    <ClCompile Include="방향합.cpp" />
     <ClCompile Include="범위안에존재여부.cpp" />
     <ClCompile Include="범위정하기.cpp" />
     <ClCompile Include="블랙리스트.cpp" />
+    <ClCompile Include="비밀번호.cpp" />
     <ClCompile Include="비트배열합.cpp" />
     <ClCompile Include="비트합.cpp" />
     <ClCompile Include="사각형출력.cpp" />
+    <ClCompile Include="새포판별.cpp" />
+    <ClCompile Include="시그마.cpp" />
     <ClCompile Include="알파벳정렬.cpp" />
     <ClCompile Include="알파벳카운트.cpp" />
     <ClCompile Include="양쪽수거리구하기.cpp" />
     <ClCompile Include="없는숫자.cpp" />
+    <ClCompile Include="용의자찾기.cpp" />
     <ClCompile Include="유령존재.cpp" />
     <ClCompile Include="저격sum.cpp" />
     <ClCompile Include="존재여부.cpp" />
@@ -169,6 +178,9 @@
     <ClCompile Include="카운팅값.cpp" />
     <ClCompile Include="칸씩누적합.cpp" />
     <ClCompile Include="컬러찾기.cpp" />
+    <ClCompile Include="패턴찾기.cpp" />
+    <ClCompile Include="포인터함수.cpp" />
+    <ClCompile Include="폭탄투하.cpp" />
     <ClCompile Include="하마의충치.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
