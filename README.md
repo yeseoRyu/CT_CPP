@@ -1,1 +1,1 @@
-CT 기록 (C++)
+CodingTest 훈련 기록 (C++)
